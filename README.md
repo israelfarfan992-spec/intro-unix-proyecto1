@@ -20,4 +20,4 @@ Security Auditing (Basic Pentesting): Evaluate the resistance of various entropy
 
 Identity and Privacy: Establish an asymmetrically encrypted communication channel and configure a Git development workflow where every commit is digitally signed, linking the author’s identity unequivocally through GPG.
 
-Regulatory Compliance: Analyze and compare legal data protection frameworks under the European standard and the Ecuadorian Organic Law on Protection of Personal Data.
+Regulatory Compliance: Analyze and compare legal data protection frameworks under the European standard and the Ecuadorian Organic Law on Protection of Personal Data
