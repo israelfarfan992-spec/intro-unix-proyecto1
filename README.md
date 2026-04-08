@@ -1,6 +1,6 @@
 # intro-unix-proyecto1
 
-Student Name: Esteban Trujillo
+Student Name: Esteban Trujillo,Israel Farfan 
 
 1. Project Description
 This project involves the deployment and security of a Debian 13, integrating multiple layers of cybersecurity. The work encompasses everything from protecting hardware and data at rest using disk encryption, and advanced volume management, to implementing best practices for credential management and secure communications.
